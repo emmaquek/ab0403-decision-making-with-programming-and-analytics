@@ -6,6 +6,22 @@ Through individual and group projects, analytical techniques were applied to rea
 
 ---
 
+## Tools & Technologies Used
+
+- **Spyder IDE** – primary development environment  
+- **Python (Programming Language)**  
+
+- **Core Libraries:**  
+  - `pandas` – data manipulation and analysis  
+  - `numpy` – numerical computation  
+  - `matplotlib` – data visualisation  
+  - `csv` – file input/output and structured data handling  
+
+- **Additional Tools:**  
+  - Jupyter Notebook – exploratory analysis and result validation
+
+---
+
 ## Projects Overview
 
 ### 1. HDB Sales Analysis (Individual Project – Python)
